@@ -1,16 +1,12 @@
-### Hi there 👋
+<a href="https://github.com/ytleoo"><h2>Welcome My Profile!</h2></a>
+<a href="https://github.com/ytleoo">
+  <img width="800px" src="https://github-profile-trophy.vercel.app/?username=ytleoo&theme=dracula&no-frame=true" />
+</a>
 
-<!--
-**ytleoo/ytleoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=ytleoo&count_private=true&theme=great-gatsby" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytleoo" />
+  <img alt="Github Repo" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=ytleoo&repo=myblog&theme=shades-of-purple" />
+</div>
