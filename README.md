@@ -1,7 +1,3 @@
-<a href="https://github.com/ytleoo"><h2>Welcome My Profile!</h2></a>
-<a href="https://github.com/ytleoo">
-  <img width="800px" src="https://github-profile-trophy.vercel.app/?username=ytleoo&theme=dracula&no-frame=true" />
-</a>
 
 ---
 
